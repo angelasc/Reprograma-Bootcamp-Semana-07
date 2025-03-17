@@ -2,9 +2,34 @@
   <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
-# Tema da Aula
+# Reprograma | Bootcamp de Análise de Dados
+## 🚀 Exercícios para Casa 
+Turma Online on29 | Semana 07 | 2024 | Professora Daviny Letícia
 
-Turma Online on29 | Python | Semana 07 | 2024 | Professora Daviny Letícia
+Este repositório contém os exercícios desenvolvidos durante a **Semana 07** do curso de Análise de Dados da turma Online On29 da Reprograma. Os desafios foram realizados para consolidar os conhecimentos adquiridos em aula.  
+
+## 📌 Descrição
+No desafio, exploramos como utilizar o Python para interagir com um banco de dados SQLite. Realizamos a construção de um banco de dados, criação de tabelas e a implementação de operações CRUD (Create, Read, Update e Delete) com SQL e Python.
+
+## 🎯 Objetivos do projeto
+- Criar um banco de dados e suas tabelas com a ajuda do SQLite.
+- Realizar operações de inserção, leitura, atualização e exclusão de dados.
+- Integrar o banco de dados com o Python utilizando a biblioteca sqlite3.
+
+## 📝 Conteúdo do Repositório  
+O repositório está organizado da seguinte maneira:
+- banco_de_dados.db: Arquivo do banco de dados gerado e manipulado pelo código Python.
+- main.py: Código principal onde as operações do banco de dados são realizadas.
+- requirements.txt: Dependências do projeto (caso existam).  
+
+## 🖥️ Tecnologias utilizadas
+- Python: Linguagem de programação utilizada para interagir com o banco de dados.
+- SQLite: Sistema de banco de dados relacional leve e fácil de usar.
+- SQL: Linguagem para manipulação dos dados no banco de dados.
+
+
+---
+
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
